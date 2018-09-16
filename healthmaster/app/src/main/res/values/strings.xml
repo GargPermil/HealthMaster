@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">healthmaster</string>
+    <string name="login">login</string>
+    <string name="signup">signup</string>
+    <string name="message">If you already have account</string>
+    <string name="loginText">login here</string>
+    <string name="text">Enter your age</string>
+    <string name="title_activity_tudo_war">Tudo War</string>
+    <string name="Environment_instruction"> Please note: \n 1: Please take a picture of Plant a tree or Watering the plant \n2: Your Picture will be reviewed by Our Team\n3: If you post wrong Picture, Your Coin wil be deducted\n4: If your picture will approve you will get 60 Coins.</string>
+</resources>
